@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        body{
+            background-color: rgb(126, 96, 155);
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<header>
+    <h1 align="center" style="color:rgb(35, 5, 90)">Página Teste</h1>
+</header>
+<body>
+    <p align="center" style="color:rgb(35, 5, 90)"><strong>Essa é uma página pra testar os comandos do html e css</strong></p>
+    <hr>
+    <p>coisas que eu quero aprender:</p>
+    <p><strong>Javascript</strong></p>
+    <p><img src="js.png" width="100px" height="100px"></p>
+    <p>JavaScript é uma Linguagem de Programação, criada por Brendan Eich, a pedido da empresa Netscape, em meados de 1995. No início, o JavaScript foi batizado com outro nome: LiveScript. No entanto, a Netscape não ficou sozinha com o desenvolvimento do JavaScript.</p>
+    <br/>
+    <p><strong>Python</strong></p>
+    <p><img src="python.png" width="100px" height="100px"></p>
+    <p>O Python foi concebido no final de 1989 por Guido van Rossum no Instituto de Pesquisa Nacional para Matemática e Ciência da Computação (CWI), nos Países Baixos, como um sucessor da ABC capaz de tratar exceções e prover interface com o sistema operacional Amoeba através de scripts.</p>
+    <br/>
+    <p><strong>html</strong></p>
+    <p><img src="html.png" width="100px" height="100px"></p>
+    <p>A história do HTML foi inventado em 1990 por um cientista chamado Tim Berners-Lee. A finalidade inicial era a de tornar possível o acesso e a troca de informações e de documentação de pesquisas, entre cientistas de diferentes universidades. O projeto inicial tornou-se um sucesso jamais imaginado por Tim Berners-Lee.</p>
+    <br/>
+    <p><strong>css</strong></p>
+    <p><img src="css.png" width="100px" height="100px"></p>
+    <p>O Cascading Style Sheets (CSS) foi proposto pela primeira vez em Outubro de 1994, por Hakon Lie, que queria facilitar a programação de sites, que na época era muito mais complexa. As pessoas tinham que utilizar mais códigos para chegar a um resultado simples, como criar uma tabela.</p>
+</body>
+<hr>
+<footer>
+    <strong>Referências:</strong>
+    <p>https://www.cpt.com.br/cursos-informatica-desenvolvimentodesoftwares/artigos/linguagem-de-programacao-javascript-um-breve-historico#:~:text=JavaScript%20%C3%A9%20uma%20Linguagem%20de%20Programa%C3%A7%C3%A3o%2C%20criada%20por%20Brendan%20Eich,com%20o%20desenvolvimento%20do%20JavaScript.</p>
+    <p>https://pt.wikipedia.org/wiki/Python#:~:text=O%20Python%20foi%20concebido%20no,operacional%20Amoeba%20atrav%C3%A9s%20de%20scripts.</p>
+    <p>https://sites.google.com/site/historiasobreossitesdebusca/programacao/html/HTML-historia-do-html</p>
+    <p>https://www.infoescola.com/informatica/cascading-style-sheets-css/#:~:text=O%20Cascading%20Style%20Sheets%20(CSS,simples%2C%20como%20criar%20uma%20tabela.</p>
+</footer>
+</html>
